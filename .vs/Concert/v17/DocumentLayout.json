@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\211235\\source\\repos\\Concert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\concert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\concert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\views\\concerts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\views\\concerts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Data\\Migrations\\20240315151131_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Concert\\Data\\Migrations\\20240315151131_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\models\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\models\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\models\\domain\\concerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\models\\domain\\concerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|c:\\users\\211235\\source\\repos\\concert\\concert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1543020F-3414-4C5D-BFF5-77FA078C6AA0}|Concert\\Concert.csproj|solutionrelative:concert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8461CED-D796-41A8-86F3-D0A672C948A3}|Rapostitory\\Rapostitory.csproj|c:\\users\\211235\\source\\repos\\concert\\rapostitory\\rapostitory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8461CED-D796-41A8-86F3-D0A672C948A3}|Rapostitory\\Rapostitory.csproj|solutionrelative:rapostitory\\rapostitory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAA7wIMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:40:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Concert\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:34:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Concert\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:34:13.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Concert\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Concert\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-15T15:33:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Concert",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Concert.csproj",
+              "RelativeDocumentMoniker": "Concert\\Concert.csproj",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Concert.csproj*",
+              "RelativeToolTip": "Concert\\Concert.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T15:32:53.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Concert\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:32:03.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Concert\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:32:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Concert\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:31:58.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Concerts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Views\\Concerts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Concerts\\Index.cshtml",
+              "RelativeToolTip": "Concert\\Views\\Concerts\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:21:35.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Concert\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Concert\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:16:11.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Concert\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Concert\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:15:44.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConcertsController.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Controllers\\ConcertsController.cs",
+              "RelativeDocumentMoniker": "Concert\\Controllers\\ConcertsController.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Controllers\\ConcertsController.cs",
+              "RelativeToolTip": "Concert\\Controllers\\ConcertsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:14:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Concert\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:12:47.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Concert\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Concert\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:12:13.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240315151131_initial.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Data\\Migrations\\20240315151131_initial.cs",
+              "RelativeDocumentMoniker": "Concert\\Data\\Migrations\\20240315151131_initial.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Data\\Migrations\\20240315151131_initial.cs",
+              "RelativeToolTip": "Concert\\Data\\Migrations\\20240315151131_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:11:32.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Concert\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Concert\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:59:49.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\appsettings.json",
+              "RelativeDocumentMoniker": "Concert\\appsettings.json",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\appsettings.json",
+              "RelativeToolTip": "Concert\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T14:59:40.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Program.cs",
+              "RelativeDocumentMoniker": "Concert\\Program.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Program.cs",
+              "RelativeToolTip": "Concert\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:56:37.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Models\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "Concert\\Models\\Domain\\Ticket.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Models\\Domain\\Ticket.cs",
+              "RelativeToolTip": "Concert\\Models\\Domain\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:52:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Concerts.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Models\\Domain\\Concerts.cs",
+              "RelativeDocumentMoniker": "Concert\\Models\\Domain\\Concerts.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Models\\Domain\\Concerts.cs",
+              "RelativeToolTip": "Concert\\Models\\Domain\\Concerts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:52:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Concert\\Models\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Concert\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "Concert\\Models\\Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:51:59.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rapostitory",
+              "DocumentMoniker": "C:\\Users\\211235\\source\\repos\\Concert\\Rapostitory\\Rapostitory.csproj",
+              "RelativeDocumentMoniker": "Rapostitory\\Rapostitory.csproj",
+              "ToolTip": "C:\\Users\\211235\\source\\repos\\Concert\\Rapostitory\\Rapostitory.csproj",
+              "RelativeToolTip": "Rapostitory\\Rapostitory.csproj",
+              "ViewState": "AQIAAAgAAADQoBV7NWgiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T14:49:33.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

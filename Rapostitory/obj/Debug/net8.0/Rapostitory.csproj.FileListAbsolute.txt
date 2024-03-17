@@ -1,0 +1,11 @@
+C:\Users\211235\source\repos\Concert\Rapostitory\bin\Debug\net8.0\Rapostitory.deps.json
+C:\Users\211235\source\repos\Concert\Rapostitory\bin\Debug\net8.0\Rapostitory.dll
+C:\Users\211235\source\repos\Concert\Rapostitory\bin\Debug\net8.0\Rapostitory.pdb
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\Rapostitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\Rapostitory.AssemblyInfoInputs.cache
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\Rapostitory.AssemblyInfo.cs
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\Rapostitory.csproj.CoreCompileInputs.cache
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\Rapostitory.dll
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\refint\Rapostitory.dll
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\Rapostitory.pdb
+C:\Users\211235\source\repos\Concert\Rapostitory\obj\Debug\net8.0\ref\Rapostitory.dll
